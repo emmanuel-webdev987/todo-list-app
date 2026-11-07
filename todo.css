@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+#textArea{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+#button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 153px;
+    padding-right: 143px;
+    color: white;
+    background-color: purple;
+    border: 1px solid black;
+    border-radius: 5px;
+}
